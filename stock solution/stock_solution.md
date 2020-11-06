@@ -2,7 +2,7 @@
 
 Copyright (c) 2020 Yuichi Takeuchi
 
-## 0.2 M PB（pH 7.4)
+## 0.4 M PB（pH 7.4)
 Usually used by diluting to 0.1M
 
 | total                                                             | 1L                           |
