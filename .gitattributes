@@ -1,0 +1,43 @@
+* text=auto
+
+# avoid crlf, diff, merge of matlab binary files
+*.mlx -crlf -diff -merge
+*.mat -crlf -diff -merge
+*.fig -crlf -diff -merge
+*.mdl -crlf -diff -merge
+*.slx -crlf -diff -merge
+*.mlapp -crlf -diff -merge
+*.p -crlf -diff -merge
+*.mdlp -crlf -diff -merge
+*.slxp -crlf -diff -merge
+*.sldd -crlf -diff -merge
+*.slxc -crlf -diff -merge
+*.mlproj -crlf -diff -merge
+*.mldatx -crlf -diff -merge
+*.slreqx -crlf -diff -merge
+*.sfx -crlf -diff -merge
+*.sltx -crlf -diff -merge
+
+# avoid crlf, diff, merge of matlab binary files
+*.mexa64 -crlf -diff -merge
+*.mexw64 -crlf -diff -merge
+*.mexmaci64 -crlf -diff -merge
+
+# avoid crlf, diff, merge of office binary files
+*.xls -crlf -diff -merge
+*.xlsx -crlf -diff -merge
+*.doc -crlf -diff -merge
+*.docx -crlf -diff -merge
+*.accdb -crlf -diff -merge
+
+# avoid crlf, diff, merge of vector binary files
+*.pdf -crlf -diff -merge
+*.ai -crlf -diff -merge
+*.eps -crlf -diff -merge
+# avoid crlf, diff, merge of image binary files
+*.jpg -crlf -diff -merge
+*.png -crlf -diff -merge
+
+# avoid crlf, diff, merge of other binary files
+*.db -crlf -diff -merge
+*.rtf -crlf -diff -merge

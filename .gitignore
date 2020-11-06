@@ -1,0 +1,84 @@
+#ignore Matlab autosave files
+*.m~
+*.asv
+
+#ignore matlab binary files
+*.mat
+*.mlx
+*.fig
+
+# ignore image binary files
+*.png
+*.pdf
+*.jpg
+*.ai
+*.eps
+
+# ignore data binary files
+*.dat
+*.mp4
+*.h5
+*.hdf
+
+# ignore office binary files
+*.xlsx
+*.xls
+*.docx
+*.doc
+*.accdb
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Visual studio code
+.vscode
+.virtual_documents
+
+
+# ignore private directory
+/private/*
+!/private/.gitkeep
