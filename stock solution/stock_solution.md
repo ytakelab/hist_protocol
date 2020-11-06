@@ -2,17 +2,20 @@
 
 Copyright (c) 2020 Yuichi Takeuchi
 
-## 0.4M PB（pH 7.4)
+## 0.2 M PB（pH 7.4)
 Usually used by diluting to 0.1M
 
-| total                                    | 1L                   |
-|------------------------------------------|----------------------|
-| Na2HPO4 (141.96) or Na2HP4･2H2O (177.99) | 45.992 g or 57.665 g |
-| NaH2PO4･2H2O (156.01)                    | 11.856 g             |
+| total                                                             | 1L                           |
+|-------------------------------------------------------------------|------------------------------|
+| NaH2PO4 (119.98) or NaH2PO4･2H2O (156.01)                         | 24 g or 31.21 g              |
+| Na2HPO4 (141.96), Na2HP4･2H2O (177.99), or Na2HP4･12H2O (358.14), | 28.39 g, 48.13 g, or 71.64 g |
+
+|   |   |
+
 | H2O                                      | fill up              |
 
 
-## 0.05M PBS（0.9% NaCl, pH7.4)
+## 0.05 M PBS（0.9% NaCl, pH7.4)
 |total        |500 ml                   |1L|
 |-------------|-------------------------|----------|
 |0.9 % NaCl   |4.5 g                    |9.0 g     |
@@ -20,7 +23,7 @@ Usually used by diluting to 0.1M
 |H2O          |fill up                  |fill up   |
 
 
-## 0.5M TBS（10 fold dilution 0.85％ NaCl, pH 7.6)
+## 0.5 M TBS（10 fold dilution 0.85％ NaCl, pH 7.6)
 |(Use diluted 10-fold)    |total 1L|
 |-------------------------|-------------------|
 |NaCl		8.5% (final 0.85%)|85.0 g             |
