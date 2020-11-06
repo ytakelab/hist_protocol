@@ -5,11 +5,11 @@ Copyright (c) 2020 Yuichi Takeuchi
 ## 0.4M PB（pH 7.4)
 Usually used by diluting to 0.1M
 
-| total                | 1L       |
-|----------------------|----------|
-| Na2HPO4 (141.96)     | 45.992 g |
-| NaH2PO4･2H2O (156.01) | 11.856 g |
-| H2O                  | fill up  |
+| total                                    | 1L                   |
+|------------------------------------------|----------------------|
+| Na2HPO4 (141.96) or Na2HP4･2H2O (177.99) | 45.992 g or 57.665 g |
+| NaH2PO4･2H2O (156.01)                    | 11.856 g             |
+| H2O                                      | fill up              |
 
 
 ## 0.05M PBS（0.9% NaCl, pH7.4)
