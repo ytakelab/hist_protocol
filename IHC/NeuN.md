@@ -1,5 +1,5 @@
 # NeuN (Millipore) immunostaining with Fluoro Nissl counter
-(Floating) XGA
+(Floating) XG
 
 
 
