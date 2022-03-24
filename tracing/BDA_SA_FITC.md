@@ -18,7 +18,6 @@ Copyright (c) 2022 Takeuchi lab
 ## Streptavidin solution (Room temperature, Light shielding)
 1. PBS wash.
 1. PBS-X, 30 min on shaker
-1. 1st antibody in PBS-XG for ON on shaker
 1. Streptavidin solution for 2 h on shaker
 1. PB wash
 1. 1 µg/ml DAPI in PB for 15 min on shaker
