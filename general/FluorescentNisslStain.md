@@ -42,4 +42,3 @@ Copyright (c) 2016 Yuichi Takeuchi
 ## NeuroTrace solution
 - Confocal, 1:150 dilution by 0.1 M PBS
 - Epifluorescence microscopy, 1:300 dilution by 0.1 M PBS
--
