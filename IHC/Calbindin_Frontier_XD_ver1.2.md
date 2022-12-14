@@ -60,7 +60,7 @@
 | normal goat serum | 1.5 ml   | 1%          |
 | sodium azide      | 30 mg    | 0.02%       |
 | PBS-X             | 148.5 ml |             |
-| name
+
 
 
 **10% NDS in PBS-X** (5 ml)
