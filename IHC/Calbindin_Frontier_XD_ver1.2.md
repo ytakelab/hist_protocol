@@ -1,117 +1,110 @@
-﻿2017/01/12, ver.1.2, Y. Takeuchi & M. Takeuchi
+## Calbindin (Frontier) immunostaining with Fluoro Nissl counter (Floating) XD
 
-**Calbindin (Frontier) immunostaining with Fluoro Nissl counter**
+### Animals
 
-**(Floating) XD**
+1.If needed, transduce some reporter proteins (eg. tdTomato) in the rat brain via Cre-lox system or virus vector.
 
-Animals
+### Perfusion, Agarose-embedding, Sectioning
 
-\1. If needed, transduce some reporter proteins (eg. tdTomato) in the rat brain via Cre-lox system or virus vector.
+2.Transcardially perfuse with saline followed by 4% paraformaldehyde and 0.2% picric acid with 0.1 M phosphate buffer (pH 7.2–7.3). Postfix overnight with the same fixative.
 
-Perfusion, Agarose-embedding, Sectioning
+3.Remove the dura. If possible, the arachnoid membrane, the pia also.
 
-\2. Transcardially perfuse with saline followed by 4% paraformaldehyde and 0.2% picric acid with 0.1 M phosphate buffer (pH 7.2–7.3). Postfix overnight with the same fixative.
+4.Embed the brain into the 4% electrophoresis quality agarose.
 
-\3. Remove the dura. If possible, the arachnoid membrane, the pia also.
+5.Section the brain with vibrating blade microtome into 50-µm-thick slices and harvest them in 12 well plates containing PBS
 
-\4. Embed the brain into the 4% electrophoresis quality agarose.
+### Antibody application (Room temperature, Light shielding)
 
-\5. Section the brain with vibrating blade microtome into 50-µm-thick slices and harvest them in 12 well plates containing PBS
+6.10% NDS in PBS-X, 30 min on shaker
 
-Antibody application (Room temperature, Light shielding)
+7.1st antibody in PBS-XD, overnight on shaker.
 
-\6. 10% NDS in PBS-X, 30 min on shaker
+8.PBS-X wash (quick × 1, 10 min × 2)
 
-\7. 1st antibody in PBS-XD, overnight on shaker.
+9.2nd antibody in PBS-XD, 2 hr on shaker
 
-\8. PBS-X wash (quick × 1, 10 min × 2)
+10.PBS-X wash (quick × 1, 10 min × 2)
 
-\9. 2nd antibody in PBS-XD, 2 hr on shaker
+11.PBS wash
 
-\10. PBS-X wash (quick × 1, 10 min × 2)
+### Counterstaining with fluorescent Nissl
 
-\11. PBS wash
+12.Diluted NeuroTrace (Blue), 40-60 min.
 
-Counterstaining with fluorescent Nissl
+13.PBS wash (quick × 1, 10 min × 2)
 
-\12. Diluted NeuroTrace (Blue), 40-60 min.
+### Mounting
 
-\13. PBS wash (quick × 1, 10 min × 2)
+14.Mount on gelatin-coated glass slides and Air-dry (30 min)
 
-Mounting
+### Coverslipping
 
-`	`14. Mount on gelatin-coated glass slides and Air-dry (30 min)
+15.Coverslip with 50% (v/v) glycerol/2.5% (w/v) DABCO in PBS.
 
-Coverslipping
+### Observation
 
-\15. Coverslip with 50% (v/v) glycerol/2.5% (w/v) DABCO in PBS.
+16.Observe with epifluorescence or confocal microscopy.
 
-Observation
+### Solutions
 
-\16. Observe with epifluorescence or confocal microscopy.
+**PBS-X** (final 0.3%, total 550 ml)
 
-**Solutions**
+20% Triton X-100(8.25 ml)	in PBS 541.75 ml
 
-**PBS-X** (total 550 ml)
-
-`	`20% Triton X-100		8.25 ml	final 0.3%
-
-`		`in PBS 541.75 ml
 
 **PBS-XD** (150 ml)
 
-`	`normal donkey serum		1.5 ml		(final 1%)
+| name              | amount   | final conc. |
+| ----------------- | -------- | ----------- |
+| normal goat serum | 1.5 ml   | 1%          |
+| sodium azide      | 30 mg    | 0.02%       |
+| PBS-X             | 148.5 ml |             |
+| name
 
-`	`sodium azide			30 mg		(final 0.02%)
-
-`		`in PBS-X 148.5 ml
 
 **10% NDS in PBS-X** (5 ml)
 
-`	`normal donkey serum		0.45 ml		(final 10%)
+| name              | amount  | final conc. |
+| ----------------- | ------- | ----------- |
+| normal goat serum | 0.45 ml | 10%         |
+| PBS-XG            | 4.55    |             |
 
-`		`in PBS-XD 4.55ml
 
 **1st antibody** (Miura et al., 2006) (1:200 dilution, 1 µg/ml final)
 
-`	`Go anti-CB-28k (Frontier Institute Cat# Calbindin-Go, RRID:AB\_2571569)
-
-`								`in PBS-XD
+- Go anti-CB-28k (Frontier Institute Cat# Calbindin-Go, RRID:AB\_2571569) in PBS-XD
 
 **2nd antibody** (1:1000 dilution, 2 µg/ml final)
-**
-`	`Donkey anti-goat IgG Alexa 488 (A-11055)
 
-`	`Or
+- Donkey anti-goat IgG Alexa 488 (A-11055)
 
-`	`Donkey anti-goat IgG Alexa 633 (A-21082)
+Or
 
-`								`in PBS-XD
+- Donkey anti-goat IgG Alexa 633 (A-21082)
+
+in PBS-XD
 
 **Diluted NeuroTrace Solution** (	NeuroTrace Blue, N-21479)
-**
-`	`Confocal microscopy (1:150 dilution with PBS)
 
-`	`Epifluorescence microscopy (1:300 dilution with PBS)
-**
+Confocal microscopy (1:150 dilution with PBS)
+
+Epifluorescence microscopy (1:300 dilution with PBS)
 
 
 **Reagents**
 
-`	`Calbindin-Go-Af1040 (frontier science): 50 µg, USD700.00
+| name              | manufacture              |    unit    | price   |
+| ----------------- | ------------------------ | ----------- | ------ |
+| Calbindin-Go-Af1040       | frontier science   |      50 µg | 700 USD |
+| A-11055      | Thermo Fisher Scientific |     0.5 ml | 71,300 HUF |
+| A-21082      | Thermo Fisher Scientific |     0.5 ml | 196 USD |
+| N-21479    | Invitrogen |      1.0 ml | 34,000 JPY |
+| Normal donkey Serum IHR-8135  | ImmunoBioScience |    20 ml  | 6,000 USD  |
 
-`	`A-11055 (Thermo Fisher Scientific): 0.5 ml, 71,300 HUF
-
-`	`A-21082 (Thermo Fisher Scientific): 0.5 ml, USD196.00
-
-`	`N-21479 (Invitrogen): 1 ml, \34,000
-
-`	`Normal donkey Serum IHR-8135 (ImmunoBioScience): 20 ml, $60,00
 
 http://www.frontier-institute.com/wp/wp-content/uploads/pdf/Calbindin.pdf
 
-**References**
+### References
 
 Miura, E., Fukaya, M., Sato, T., Sugihara, K., Asano, M., Yoshioka, K., Watanabe, M. (2006) Expression and distribution of JNK/SAPK-associated scaffold protein JSAP1 in developing and adult mouse brain. J. Neurochem. 97:1431-1446. PMID: 16606357
-` `2** / 2**
-
