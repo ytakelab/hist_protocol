@@ -80,7 +80,7 @@ Copyright (c) 2017, 2021 Yuichi Takeuchi, 2024 Kaede Yoshida
 | name                   | manufacture              | article no. | unit   | price      |
 | ---------------------- | ------------------------ | ----------- | ------ | ---------- |
 | rabbit anti-cFos       | Millipore                | ABE457      | 100 µg | 69,630 JPY |
-| chiken anti-GAD67      | abcam                    | ab75712     | 100 µg | 81,300 JPY |
+| chiken anti-GAD67      | abcam                    | ab75712     | 500 µl | 81,300 JPY |
 | goat anti-HA           | Cell Signaling Technology| 2250T       | 100 µg | 49,500 JPY |
 | Donkey anti-rabbit 488 | Thermo Fisher Scientific | A-21206     | 0.5 ml | 42,000 JPY |
 | Donkey anti-chiken 568 | Thermo Fisher Scientific | A-78950     | 0.5 ml | 42,000 JPY |

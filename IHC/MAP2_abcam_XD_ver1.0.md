@@ -54,7 +54,7 @@ Copyright (c) 2017, 2021 Yuichi Takeuchi, 2024 Kaede Yoshida
 | -------------- | ----------------------   | ----------- | -------- |
 | Rb anti-cFos   | Millipore                | ABE457      | 1:1000   |
 | Gt anti-HA     | Thermo Fisher Scientific | A190-138P   | 1:2000   |
-| Ck anti-MAP2   | abcam                    | ab53922     | 1:1000   |
+| Ck anti-MAP2   | abcam                    | ab53922     | 1:2000   |
 
 - dilute with PBS-XG
 
@@ -80,8 +80,8 @@ Copyright (c) 2017, 2021 Yuichi Takeuchi, 2024 Kaede Yoshida
 | name                   | manufacture              | article no. | unit   | price      |
 | ---------------------- | ------------------------ | ----------- | ------ | ---------- |
 | rabbit anti-cFos       | Millipore                | ABE457      | 100 µg | 69,630 JPY |
-| chiken anti-MAP2       | abcam                    | ab53922     | 100 µg | 90,500 JPY |
-| goat anti-HA           | Cell Signaling Technology| 2250T       | 100 µg | 49,500 JPY |
+| chiken anti-MAP2       | abcam                    | ab53922     |  25 µl | 90,500 JPY |
+| goat anti-HA           | Thermo Fisher Scientific | A190-138P   | 100 µg | 49,500 JPY |
 | Donkey anti-rabbit 488 | Thermo Fisher Scientific | A-21206     | 0.5 ml | 42,000 JPY |
 | Donkey anti-chiken 568 | Thermo Fisher Scientific | A-78950     | 0.5 ml | 42,000 JPY |
 | Donkey anti-goat 647   | Thermo Fisher Scientific | A-21447     | 0.5 ml | 42,000 JPY |
